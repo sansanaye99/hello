@@ -1,7 +1,7 @@
 import streamlit as st
 import test
 a=st.text_input("please enter your name")
-b=int(st.text_input("please enter your age"))
+b=st.text_input("please enter your age")
 if (b<=18):
   st.write("you are not allow to access the site")
 else:
