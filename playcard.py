@@ -1,1 +1,3 @@
-print("This is playcard")
+import streamlit as st
+st.write("This is playcard")
+
