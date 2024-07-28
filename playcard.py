@@ -7,7 +7,7 @@ if (b<=18):
 else:
   st.write("You are eligible to play the game")
   st.write("Your name is"+a)
-  st.write("Your age is"+b)
+  st.write("Your age is ",b)
   test.display(a)
 
 
