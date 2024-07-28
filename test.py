@@ -1,2 +1,3 @@
 import streamlit as st
-st.write("hello world")
+def display(name)
+st.write("welcome to the Site "+name)
